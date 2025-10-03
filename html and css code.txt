@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jonathan Turla - Resume</title>
+  
+  <!-- HEADER -->
+  <div class="header"
+    <h1>JONATHAN TURLA</h1>
+    <p>STUDENT</p>
+    <img src="090e8d86-979e-4c42-be62-7b4fca5060ca.jpg" class="profile-img">
+    <div class="contact-info">
+      <p>📞 09356368730</p>
+      <p>📍 Rosario N.Samar, 6416</p>
+      <p>✉️ jonthanalcera@gmail.com</p>
+      <p>🌐 www.Mywebsite.com</p>
+    </div>
+  </div>
+
+  <!-- MAIN CONTENT -->
+  <div class="container">
+    
+    <!-- LEFT COLUMN -->
+    <div>
+      <div class="section">
+        <h2>About Me</h2>
+        <p>My name is Jonathan Turla. a 3rd year Bachelor of Science in Information Technology (BSIT) student at the University of Eastern Philippines. I am passionate about learning new technologies, improving my programming skills, and exploring different areas of IT.
+
+I am also eager to gain more experience, learn from others, and continuously grow as a future IT professional. </p>
+      </div>
+
+      <div class="section">
+        <h2>SCHOOLS AND AWARDS</h2>
+        <ul>
+          <li>🏆 FINISHED HIGHSCHOOL AND SENIOR HIGH (CONSISTENT WITH HONORS), IN ROSARIO NATIONAL HIGHSCHOOL</li>
+          <li>🏆 PHOTOJOURNALIST OF THE YEAR</li>
+          <li>🏆 LEADERSHIP AWARDEE</li>
+        </ul>
+      </div>
+
+      <div class="section">
+        <h2>Skills</h2>
+        <div class="skill">
+          <span>TIME MANAGEMENT</span>
+          <div class="progress"><div class="progress-bar" style="width: 75%;"></div></div>
+        </div>
+        <div class="skill">
+          <span>COMMUNICATION SKILLS</span>
+          <div class="progress"><div class="progress-bar" style="width: 85%;"></div></div>
+        </div>
+        <div class="skill">
+          <span>ADAPTABILITY</span>
+          <div class="progress"><div class="progress-bar" style="width: 70%;"></div></div>
+        </div>
+        <div class="skill">
+          <span>SELF-MOTIVATION</span>
+          <div class="progress"><div class="progress-bar" style="width: 95%;"></div></div>
+        </div>
+       
+    <!-- RIGHT COLUMN -->
+    <div>
+      <div class="section">
+        <h2>Work / Organization / Community Experience</h2>
+        <p><b>Youth Organization Member</b><br>
+        Actively participated in community programs, leadership activities, and events that promote teamwork and social responsibility.</p>
+        <p><b>School Organization Volunteer</b><br>
+         Assisted in organizing events, programs, and student activities.</p>
+        <p><b>Community Service</b><br>
+         Joined outreach programs, clean-up drives, and other activities that support the local community..</p
+        <p><b>Classroom Representative</b><br>
+         Helped in communicating between teachers and classmates, fostering better coordination..</p>
+       </div>
+
+      <div class="section">
+        <h2>Education</h2>
+        <p><b>FINISHED ELEMENTARY AT ROSARIO CENTRAL SCHOOL (2015-2016)</b><br>
+        <p><b>FINISHED HIGHSCHOOL AT RNHS (2020-2021)</b><br>
+        <p><b>FINISHED SENIOR HS(2021-2023)</b><br>
+        <p><b>CURRENTLY 3RD YEAR BSIT STUDENT AT THE UNIVERSITY OF EASTERN PHILIPPINES</b><br>
+       
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>  
